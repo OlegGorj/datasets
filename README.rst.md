@@ -10,7 +10,7 @@ in high quality. They are collected and tidied from blogs, answers, and user res
 Most of the data sets listed below are free, however, some are not.`
 
 
-.. contents:: **Table of Contents**
+**Table of Contents**
 
     
 Agriculture
