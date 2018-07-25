@@ -1,6 +1,8 @@
 Open to Public Datasets
 =======================
 
+.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
+.. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
 
 * |OK_ICON| I am well.
 * |FIXME_ICON| Please fix me.
